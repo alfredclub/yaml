@@ -20,11 +20,11 @@ supported since they're a poor design and are gone in YAML 1.2.
 Installation and usage
 ----------------------
 
-The import path for the package is *gopkg.in/yaml.v2*.
+The import path for the package is *gopkg.in/alfredclub/yaml.v2*.
 
 To install it, run:
 
-    go get gopkg.in/yaml.v2
+    go get gopkg.in/alfredclub/yaml.v2
 
 API documentation
 -----------------
